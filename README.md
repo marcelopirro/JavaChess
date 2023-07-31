@@ -1,7 +1,5 @@
 # Java Chess Game
 
-![Chess Board](chess_board.png)
-
 ## Description
 
 This is a simple Chess Game implementation in Java. The game allows two players to play against each other on a standard 8x8 chessboard.
